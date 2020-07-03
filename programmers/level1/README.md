@@ -7,9 +7,9 @@
 ### 체육복
 > [코드 및 설명]()
 ### K번째 수
-> [코드 및 설명]()
+> [코드 및 설명](https://github.com/ryusehui/algorithm/blob/master/programmers/level1/code/K%EB%B2%88%EC%A7%B8%EC%88%98.md)
 ### 2016년
-> [코드 및 설명]()
+> [코드 및 설명](https://github.com/ryusehui/algorithm/blob/master/programmers/level1/code/2016%EB%85%84.md)
 ### 가운데 글자 가져오기
 > [코드 및 설명]()
 ### 같은 숫자는 싫어
