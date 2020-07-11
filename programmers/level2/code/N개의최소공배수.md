@@ -6,19 +6,7 @@
 > * [코드](#코드)
 
 ## 문제
-n개의 숫자를 담은 배열 arr이 주어질 때, 이 수들의 최소공배수 구하기
-
-입력: 1차원 배열 arr
-> ex   
-> [2, 6, 8, 14]
-
-출력: 최소공배수
-> ex   
-> 168
-
-조건
-* arr은 길이 1 이상 15 이하인 배열
-* arr의 원소는 100 이하인 자연수
+![문제](https://github.com/ryusehui/algorithm/blob/master/programmers/level2/problems/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.PNG)
 <hr/>
 
 ## 알고리즘
