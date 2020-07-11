@@ -1,5 +1,21 @@
+# x만큼 간격이 있는 n개의 숫자
+
+> ## 목차
+> * [문제](#문제)
+> * [알고리즘](#알고리즘)
+> * [코드](#코드)
+
+## 문제
+![문제](https://github.com/ryusehui/algorithm/blob/master/programmers/level1/problems/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.PNG)
+<hr/>
+
+## 알고리즘
+
+<hr/>
+
+## 코드
 ### c++
-```
+```c++
 #include <string>
 #include <vector>
  
@@ -19,7 +35,7 @@ vector<long long> solution(int x, int n) {
 ```
 
 ### java
-```
+```java
 class Solution {
   public long[] solution(int x, int n) {
       long[] answer = new long[n];
