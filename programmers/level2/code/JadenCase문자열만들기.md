@@ -6,21 +6,7 @@
 > * [코드](#코드)
 
 ## 문제
-JadenCase란 모든 단어의 첫 문자가 대문자이고, 그 외의 알파벳은 소문자인 문자열이다.   
-문자열 s가 주어졌을 때, s를 JadenCase로 바꾼 문자열을 구하기
-
-입력: 문자열 s
-> ex   
-> "3people unFollowed me"
-
-출력: JadenCase로 바꾼 문자열
-> ex   
-> "3people Unfollowed Me"
-
-조건
-* s는 길이 1 이상인 문자열
-* s는 알파벳과 공백문자(" ")로 이루어져 있음
-* 첫 문자가 영문이 아닐때에는 이어지는 영문은 소문자로 씀
+![문제](https://github.com/ryusehui/algorithm/blob/master/programmers/level2/problems/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.PNG)
 <hr/>
 
 ## 알고리즘
